@@ -257,8 +257,8 @@ export default {
       margin: 10px 0;
     }
     &--coins {
-    color: #ffd700;
-  }
+      color: #ffd700;
+    }
   }
   &__health-bar {
     width: 200px;

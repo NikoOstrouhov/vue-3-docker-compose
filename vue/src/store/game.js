@@ -395,7 +395,7 @@ export default {
       state.player.maxMana = 100
       state.player.health = state.player.maxHealth
       state.player.mana = 0
-      state.player.coins = 0
+      state.player.coins = 10000
       state.mouse.x = state.world.width / 2
       state.mouse.y = state.world.height / 2
       state.camera.x = state.player.x - state.world.width / 2
